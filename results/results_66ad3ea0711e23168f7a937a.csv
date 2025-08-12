@@ -1,0 +1,46 @@
+=== Current Scores ===
+Subject,Raw,Scaled,Module2 Difficulty
+Math,23,560,hard
+Reading and Writing,36,610,hard
+
+=== Top Impactful Questions ===
+Question ID,Subject,Topic,Unit,Difficulty,Score Improvement,Time Spent (ms)
+65b1435e836c92e3d55d948f,Math,Trigonometry,Geometry and Trigonometry,hard,10,2890
+659e4bd804e80b72d57ac71e,Math,Linear equations in two variables,Algebra,hard,10,3571
+659e4bd804e80b72d57ac69e,Math,Linear functions,Algebra,hard,10,4135
+659e942904e80b72d57ac865,Math,"Ratios, Rates, And Proportions",Problem Solving and Data Analysis,moderate,10,4375
+659e25cd04e80b72d57ac4a3,Math,Linear equations in two variables,Algebra,hard,10,4999
+65ae7a6d836c92e3d55d8c0d,Math,"Lines, angles, and triangles",Geometry and Trigonometry,hard,10,5210
+659ee77604e80b72d57acb8c,Math,Systems of Non-linear equations in two variables,Advanced Maths,hard,10,5276
+65aa7f51ea9130b9997676b6,Math,Nonlinear equations,Advanced Maths,hard,10,5386
+65b14a3e836c92e3d55d962e,Math,Nonlinear functions,Advanced Maths,hard,10,6030
+659e4bd804e80b72d57ac723,Math,Linear equations in two variables,Algebra,hard,10,6398
+659e991004e80b72d57ac8db,Math,Nonlinear functions,Advanced Maths,moderate,10,9183
+659e25cd04e80b72d57ac56c,Math,Linear equations in one variable,Algebra,moderate,10,9285
+659e25cd04e80b72d57ac58a,Math,Linear equations in two variables,Algebra,moderate,10,11887
+659e991004e80b72d57ac8c2,Math,Nonlinear functions,Advanced Maths,moderate,10,14418
+65b9dcbc117be8dcc30c3730,Math,Circle Theorems,Geometry and Trigonometry,hard,10,16351
+659007d81d3470ce13e93f93,Reading and Writing,Boundaries,Standard English Conventions,hard,10,17853
+65901c5d1d3470ce13e942eb,Reading and Writing,Transitions,Expression of Ideas,moderate,10,19093
+659e25cd04e80b72d57ac4cf,Math,Systems of two linear equations in two variables,Algebra,hard,10,24136
+65901bbe1d3470ce13e942d7,Reading and Writing,Transitions,Expression of Ideas,moderate,10,26357
+65b8bcea117be8dcc30c340e,Math,Circle Equations,Geometry and Trigonometry,moderate,10,30764
+65b8bbf6117be8dcc30c33c9,Math,Right Triangle Geometry,Geometry and Trigonometry,hard,10,37899
+659009781d3470ce13e93fed,Reading and Writing,Boundaries,Standard English Conventions,hard,10,39057
+659009481d3470ce13e93fe3,Reading and Writing,Identifying Verb-form,Standard English Conventions,hard,10,41176
+659012741d3470ce13e9414d,Reading and Writing,Pronoun-antecedent agreement,Standard English Conventions,moderate,10,41648
+658f258d1d3470ce13e93ddb,Reading and Writing,Inferences,Information and Ideas,hard,10,44532
+65903fbc1d3470ce13e945fc,Reading and Writing,Words in context,Craft and Structure,easy,10,51276
+659009f21d3470ce13e9400b,Reading and Writing,Boundaries,Standard English Conventions,hard,10,52034
+65901d081d3470ce13e942f5,Reading and Writing,Transitions,Expression of Ideas,moderate,10,52134
+659008b11d3470ce13e93fc0,Reading and Writing,Subject-verb agreement,Standard English Conventions,moderate,10,73766
+659e4bd804e80b72d57ac66f,Math,Linear inequalities in one or two variables,Algebra,hard,10,75395
+659040bd1d3470ce13e9461f,Reading and Writing,Words in context,Craft and Structure,hard,10,80598
+65af5bcb836c92e3d55d9117,Math,Calculating Mean,Problem Solving and Data Analysis,hard,10,87878
+65b69f95851bdafef08a0bdd,Reading and Writing,Command of Evidence - Quantitative,Information and Ideas,hard,10,90858
+658f280d1d3470ce13e93e26,Reading and Writing,Command of Evidence - Quantitative,Information and Ideas,moderate,10,94595
+65ae7e3e836c92e3d55d8cf3,Math,Area,Geometry and Trigonometry,moderate,10,109700
+658f26e11d3470ce13e93e03,Reading and Writing,Command of Evidence - Textual,Information and Ideas,hard,10,111721
+65b69f50851bdafef08a0bd3,Reading and Writing,Command of Evidence - Textual,Information and Ideas,hard,10,147774
+658f25fb1d3470ce13e93dea,Reading and Writing,Inferences,Information and Ideas,moderate,10,150990
+65b6a017851bdafef08a0bec,Reading and Writing,Central ideas and details,Information and Ideas,hard,10,158801

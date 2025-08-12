@@ -1,0 +1,15 @@
+=== Current Scores ===
+Subject,Raw,Scaled,Module2 Difficulty
+Math,40,740,hard
+Reading and Writing,50,750,hard
+
+=== Top Impactful Questions ===
+Question ID,Subject,Topic,Unit,Difficulty,Score Improvement,Time Spent (ms)
+65ae7e3e836c92e3d55d8cf3,Math,Area,Geometry and Trigonometry,moderate,20,61409
+65b9dcbc117be8dcc30c3730,Math,Circle Theorems,Geometry and Trigonometry,hard,20,138170
+65aa7f51ea9130b9997676b6,Math,Nonlinear equations,Advanced Maths,hard,20,303872
+65ae7a6d836c92e3d55d8c0d,Math,"Lines, angles, and triangles",Geometry and Trigonometry,hard,20,348497
+6590076f1d3470ce13e93f7f,Reading and Writing,Boundaries,Standard English Conventions,hard,10,21815
+65901ab81d3470ce13e942b4,Reading and Writing,Rhetorical Synthesis,Expression of Ideas,moderate,10,32182
+659041da1d3470ce13e94642,Reading and Writing,Text structure and purpose,Craft and Structure,hard,10,58969
+658f280d1d3470ce13e93e26,Reading and Writing,Command of Evidence - Quantitative,Information and Ideas,moderate,10,86345
